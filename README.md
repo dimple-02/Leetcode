@@ -35,6 +35,7 @@
 | [0162-find-peak-element](https://github.com/dimple-02/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dimple-02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/dimple-02/Leetcode/tree/master/0189-rotate-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -61,6 +62,7 @@
 | [0048-rotate-image](https://github.com/dimple-02/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/dimple-02/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dimple-02/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/dimple-02/Leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -141,6 +143,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/dimple-02/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dimple-02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dimple-02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/dimple-02/Leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
