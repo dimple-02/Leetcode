@@ -22,6 +22,7 @@
 | [0075-sort-colors](https://github.com/dimple-02/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dimple-02/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dimple-02/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -101,6 +102,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dimple-02/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/dimple-02/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dimple-02/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/dimple-02/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dimple-02/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
