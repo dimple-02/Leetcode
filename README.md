@@ -37,6 +37,7 @@
 | [0012-integer-to-roman](https://github.com/dimple-02/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/dimple-02/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/dimple-02/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/dimple-02/Leetcode/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -134,6 +135,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dimple-02/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/dimple-02/Leetcode/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0059-spiral-matrix-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dimple-02/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
