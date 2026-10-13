@@ -28,6 +28,7 @@
 | [0118-pascals-triangle](https://github.com/dimple-02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dimple-02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/dimple-02/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/dimple-02/Leetcode/tree/master/0136-single-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/dimple-02/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/dimple-02/Leetcode/tree/master/0136-single-number) |
 ## Tree
 |  |
 | ------- |
