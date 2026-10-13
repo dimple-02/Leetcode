@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/dimple-02/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/dimple-02/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/dimple-02/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/dimple-02/Leetcode/tree/master/0057-insert-interval) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
