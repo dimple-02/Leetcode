@@ -69,6 +69,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/dimple-02/Leetcode/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Matrix
 |  |
@@ -154,6 +155,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/dimple-02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/dimple-02/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dimple-02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/dimple-02/Leetcode/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
