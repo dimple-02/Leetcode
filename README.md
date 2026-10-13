@@ -30,6 +30,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dimple-02/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/dimple-02/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dimple-02/Leetcode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -181,6 +182,7 @@
 | [0069-sqrtx](https://github.com/dimple-02/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/dimple-02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dimple-02/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Sorting
 |  |
 | ------- |
