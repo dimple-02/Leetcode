@@ -88,6 +88,7 @@
 | [0141-linked-list-cycle](https://github.com/dimple-02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dimple-02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/dimple-02/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/dimple-02/Leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [0141-linked-list-cycle](https://github.com/dimple-02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dimple-02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/dimple-02/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/dimple-02/Leetcode/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [0056-merge-intervals](https://github.com/dimple-02/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dimple-02/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/dimple-02/Leetcode/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dimple-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/dimple-02/Leetcode/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -272,4 +276,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dimple-02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dimple-02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/dimple-02/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
