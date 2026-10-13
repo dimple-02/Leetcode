@@ -34,6 +34,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dimple-02/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/dimple-02/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dimple-02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -48,6 +49,7 @@
 | [0141-linked-list-cycle](https://github.com/dimple-02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dimple-02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dimple-02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
@@ -202,6 +204,7 @@
 | [0075-sort-colors](https://github.com/dimple-02/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/dimple-02/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -273,6 +276,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dimple-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/dimple-02/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -296,4 +300,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dimple-02/Leetcode/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
