@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dimple-02/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dimple-02/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/dimple-02/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -54,6 +55,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dimple-02/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/dimple-02/Leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/dimple-02/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dimple-02/Leetcode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dimple-02/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
