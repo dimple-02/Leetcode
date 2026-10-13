@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dimple-02/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/dimple-02/Leetcode/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -30,6 +31,7 @@
 | [0007-reverse-integer](https://github.com/dimple-02/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dimple-02/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/dimple-02/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/dimple-02/Leetcode/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -47,6 +49,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dimple-02/Leetcode/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Linked List
 |  |
