@@ -18,6 +18,7 @@
 | [0057-insert-interval](https://github.com/dimple-02/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/dimple-02/Leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/dimple-02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -57,6 +58,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/dimple-02/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/dimple-02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Linked List
 |  |
@@ -136,6 +138,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dimple-02/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dimple-02/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/dimple-02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
 | ------- |
