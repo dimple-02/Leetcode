@@ -227,6 +227,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/dimple-02/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/dimple-02/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/dimple-02/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/dimple-02/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -570,6 +571,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2974-minimum-number-game](https://github.com/dimple-02/Leetcode/tree/master/2974-minimum-number-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/dimple-02/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Quicksort
 |  |
 | ------- |
