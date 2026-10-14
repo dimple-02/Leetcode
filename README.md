@@ -178,6 +178,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/dimple-02/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dimple-02/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dimple-02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/dimple-02/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Prefix Sum
 |  |
 | ------- |
