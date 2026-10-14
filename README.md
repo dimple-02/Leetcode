@@ -332,6 +332,7 @@
 | [1405-longest-happy-string](https://github.com/dimple-02/Leetcode/tree/master/1405-longest-happy-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/dimple-02/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dimple-02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1768-merge-strings-alternately](https://github.com/dimple-02/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -383,6 +384,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/dimple-02/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dimple-02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/dimple-02/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
