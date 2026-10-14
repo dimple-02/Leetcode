@@ -120,6 +120,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/dimple-02/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/dimple-02/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dimple-02/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dimple-02/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -552,6 +553,7 @@
 | [1094-car-pooling](https://github.com/dimple-02/Leetcode/tree/master/1094-car-pooling) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dimple-02/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dimple-02/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dimple-02/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Newton's Method
 |  |
 | ------- |
@@ -782,6 +784,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/dimple-02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/dimple-02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dimple-02/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dimple-02/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Interactive
 |  |
 | ------- |
