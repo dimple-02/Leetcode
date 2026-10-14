@@ -206,6 +206,7 @@
 | [1109-corporate-flight-bookings](https://github.com/dimple-02/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dimple-02/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dimple-02/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/dimple-02/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -310,6 +311,7 @@
 | [0984-string-without-aaa-or-bbb](https://github.com/dimple-02/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dimple-02/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1405-longest-happy-string](https://github.com/dimple-02/Leetcode/tree/master/1405-longest-happy-string) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/dimple-02/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Sliding Window
 |  |
 | ------- |
