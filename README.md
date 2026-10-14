@@ -133,6 +133,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/dimple-02/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/dimple-02/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/dimple-02/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dimple-02/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/dimple-02/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Math
 |  |
 | ------- |
@@ -370,6 +372,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/dimple-02/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dimple-02/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/dimple-02/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -797,6 +800,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/dimple-02/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Number Theory
 |  |
 | ------- |
