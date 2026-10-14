@@ -192,6 +192,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/dimple-02/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dimple-02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/dimple-02/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -562,6 +563,7 @@
 | [0784-letter-case-permutation](https://github.com/dimple-02/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/dimple-02/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Tree
 |  |
 | ------- |
