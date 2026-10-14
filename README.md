@@ -79,6 +79,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dimple-02/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0817-linked-list-components](https://github.com/dimple-02/Leetcode/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/dimple-02/Leetcode/tree/master/0819-most-common-word) |
+| [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/dimple-02/Leetcode/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
 ## Linked List
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 | [0541-reverse-string-ii](https://github.com/dimple-02/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dimple-02/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dimple-02/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -420,6 +423,7 @@
 | [0415-add-strings](https://github.com/dimple-02/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/dimple-02/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/dimple-02/Leetcode/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
 ## Newton's Method
 |  |
 | ------- |
@@ -461,6 +465,7 @@
 | [0476-number-complement](https://github.com/dimple-02/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/dimple-02/Leetcode/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/dimple-02/Leetcode/tree/master/0784-letter-case-permutation) |
+| [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
 ## Tree
 |  |
 | ------- |
