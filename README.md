@@ -55,6 +55,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dimple-02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/dimple-02/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/dimple-02/Leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/dimple-02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
@@ -235,6 +236,7 @@
 | [0011-container-with-most-water](https://github.com/dimple-02/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/dimple-02/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/dimple-02/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/dimple-02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Trie
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dimple-02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/dimple-02/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dimple-02/Leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/dimple-02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -439,6 +442,7 @@
 | [0338-counting-bits](https://github.com/dimple-02/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/dimple-02/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/dimple-02/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/dimple-02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Union-Find
 |  |
 | ------- |
