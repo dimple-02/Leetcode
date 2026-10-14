@@ -48,6 +48,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/dimple-02/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dimple-02/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/dimple-02/Leetcode/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -189,6 +190,7 @@
 | [0189-rotate-array](https://github.com/dimple-02/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dimple-02/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dimple-02/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/dimple-02/Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
