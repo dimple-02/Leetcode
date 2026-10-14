@@ -132,6 +132,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/dimple-02/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dimple-02/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/dimple-02/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -596,6 +597,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/dimple-02/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/dimple-02/Leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/dimple-02/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -644,6 +646,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/dimple-02/Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/dimple-02/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Tree
 |  |
 | ------- |
