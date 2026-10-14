@@ -773,6 +773,7 @@
 | [1068-product-sales-analysis-i](https://github.com/dimple-02/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/dimple-02/Leetcode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dimple-02/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dimple-02/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
