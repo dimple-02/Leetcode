@@ -84,6 +84,7 @@
 | [0875-koko-eating-bananas](https://github.com/dimple-02/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/dimple-02/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/dimple-02/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +309,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dimple-02/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/dimple-02/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/dimple-02/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -423,6 +425,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dimple-02/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
+| [0905-sort-array-by-parity](https://github.com/dimple-02/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Quicksort
 |  |
 | ------- |
