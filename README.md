@@ -114,6 +114,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dimple-02/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dimple-02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dimple-02/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1732-find-the-highest-altitude](https://github.com/dimple-02/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/dimple-02/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/dimple-02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dimple-02/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/dimple-02/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Pigeonhole Principle
 |  |
 | ------- |
