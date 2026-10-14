@@ -142,6 +142,7 @@
 | [0509-fibonacci-number](https://github.com/dimple-02/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/dimple-02/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0788-rotated-digits](https://github.com/dimple-02/Leetcode/tree/master/0788-rotated-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -552,6 +553,7 @@
 | [0509-fibonacci-number](https://github.com/dimple-02/Leetcode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/dimple-02/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/dimple-02/Leetcode/tree/master/0788-rotated-digits) |
 ## Union-Find
 |  |
 | ------- |
