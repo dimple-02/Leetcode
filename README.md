@@ -136,6 +136,7 @@
 | [0507-perfect-number](https://github.com/dimple-02/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/dimple-02/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0728-self-dividing-numbers](https://github.com/dimple-02/Leetcode/tree/master/0728-self-dividing-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
