@@ -116,6 +116,7 @@
 | [0371-sum-of-two-integers](https://github.com/dimple-02/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dimple-02/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/dimple-02/Leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/dimple-02/Leetcode/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -208,6 +209,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/dimple-02/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dimple-02/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/dimple-02/Leetcode/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/dimple-02/Leetcode/tree/master/0504-base-7) |
 ## Sliding Window
 |  |
 | ------- |
