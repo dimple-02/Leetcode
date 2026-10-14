@@ -63,6 +63,7 @@
 | [0485-max-consecutive-ones](https://github.com/dimple-02/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/dimple-02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/dimple-02/Leetcode/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dimple-02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/dimple-02/Leetcode/tree/master/0525-contiguous-array) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/dimple-02/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/dimple-02/Leetcode/tree/master/0525-contiguous-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
