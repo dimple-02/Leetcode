@@ -58,6 +58,7 @@
 | [0435-non-overlapping-intervals](https://github.com/dimple-02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dimple-02/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
@@ -246,6 +247,7 @@
 | [0409-longest-palindrome](https://github.com/dimple-02/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/dimple-02/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/dimple-02/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dimple-02/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Trie
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | [0414-third-maximum-number](https://github.com/dimple-02/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/dimple-02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dimple-02/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Quicksort
 |  |
 | ------- |
