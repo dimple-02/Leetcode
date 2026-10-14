@@ -81,6 +81,7 @@
 | [0819-most-common-word](https://github.com/dimple-02/Leetcode/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/dimple-02/Leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/dimple-02/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -387,6 +388,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dimple-02/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dimple-02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/dimple-02/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
