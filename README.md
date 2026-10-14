@@ -84,6 +84,7 @@
 | [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/dimple-02/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dimple-02/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/dimple-02/Leetcode/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
