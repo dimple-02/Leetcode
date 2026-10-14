@@ -52,6 +52,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/dimple-02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dimple-02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/dimple-02/Leetcode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
@@ -64,6 +65,7 @@
 | [0066-plus-one](https://github.com/dimple-02/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dimple-02/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dimple-02/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dimple-02/Leetcode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -145,6 +147,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/dimple-02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dimple-02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dimple-02/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dimple-02/Leetcode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -310,6 +313,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dimple-02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dimple-02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/dimple-02/Leetcode/tree/master/0202-happy-number) |
 ## Merge Sort
 |  |
 | ------- |
