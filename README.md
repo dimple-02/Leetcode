@@ -117,6 +117,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dimple-02/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/dimple-02/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/dimple-02/Leetcode/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/dimple-02/Leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
