@@ -82,6 +82,7 @@
 | [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/dimple-02/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/dimple-02/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/dimple-02/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/dimple-02/Leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -574,6 +576,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/dimple-02/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/dimple-02/Leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -668,4 +671,16 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dimple-02/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
