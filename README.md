@@ -37,6 +37,7 @@
 | [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dimple-02/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dimple-02/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -66,6 +67,7 @@
 | [0069-sqrtx](https://github.com/dimple-02/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dimple-02/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dimple-02/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -328,4 +330,24 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
