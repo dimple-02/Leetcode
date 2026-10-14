@@ -629,6 +629,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/dimple-02/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dimple-02/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dimple-02/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -645,6 +646,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/dimple-02/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dimple-02/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -665,6 +667,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/dimple-02/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dimple-02/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dimple-02/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
