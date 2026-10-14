@@ -66,6 +66,7 @@
 | [0217-contains-duplicate](https://github.com/dimple-02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dimple-02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/dimple-02/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/dimple-02/Leetcode/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
@@ -152,6 +153,7 @@
 | [0131-palindrome-partitioning](https://github.com/dimple-02/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/dimple-02/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/dimple-02/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/dimple-02/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dimple-02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dimple-02/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/dimple-02/Leetcode/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
