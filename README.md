@@ -100,6 +100,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/dimple-02/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/dimple-02/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dimple-02/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/dimple-02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/dimple-02/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dimple-02/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/dimple-02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -347,6 +349,7 @@
 | [0917-reverse-only-letters](https://github.com/dimple-02/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/dimple-02/Leetcode/tree/master/0986-interval-list-intersections) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/dimple-02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
@@ -443,6 +446,7 @@
 | [0875-koko-eating-bananas](https://github.com/dimple-02/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/dimple-02/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dimple-02/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/dimple-02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -474,6 +478,7 @@
 | [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/dimple-02/Leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/dimple-02/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/dimple-02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Quicksort
 |  |
 | ------- |
