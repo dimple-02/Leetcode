@@ -92,6 +92,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/dimple-02/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/dimple-02/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dimple-02/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1024-video-stitching](https://github.com/dimple-02/Leetcode/tree/master/1024-video-stitching) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +340,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/dimple-02/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
+| [1024-video-stitching](https://github.com/dimple-02/Leetcode/tree/master/1024-video-stitching) |
 ## Trie
 |  |
 | ------- |
@@ -610,6 +612,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/dimple-02/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/dimple-02/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
+| [1024-video-stitching](https://github.com/dimple-02/Leetcode/tree/master/1024-video-stitching) |
 ## Union-Find
 |  |
 | ------- |
