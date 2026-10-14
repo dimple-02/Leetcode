@@ -69,6 +69,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/dimple-02/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/dimple-02/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/dimple-02/Leetcode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
 | ------- |
@@ -278,6 +279,7 @@
 | [0435-non-overlapping-intervals](https://github.com/dimple-02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dimple-02/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/dimple-02/Leetcode/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Trie
 |  |
 | ------- |
@@ -371,6 +373,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/dimple-02/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/dimple-02/Leetcode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Quicksort
 |  |
 | ------- |
@@ -506,6 +509,7 @@
 | [0410-split-array-largest-sum](https://github.com/dimple-02/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/dimple-02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/dimple-02/Leetcode/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Union-Find
 |  |
 | ------- |
@@ -588,4 +592,8 @@
 | [0577-employee-bonus](https://github.com/dimple-02/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/dimple-02/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/dimple-02/Leetcode/tree/master/0595-big-countries) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
