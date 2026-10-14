@@ -121,6 +121,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/dimple-02/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dimple-02/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dimple-02/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dimple-02/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -346,6 +347,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dimple-02/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/dimple-02/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/dimple-02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dimple-02/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -400,6 +402,7 @@
 | [1768-merge-strings-alternately](https://github.com/dimple-02/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/dimple-02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dimple-02/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dimple-02/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
