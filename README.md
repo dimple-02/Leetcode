@@ -49,6 +49,7 @@
 | [0260-single-number-iii](https://github.com/dimple-02/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dimple-02/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dimple-02/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dimple-02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -100,6 +101,7 @@
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/dimple-02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Design
 |  |
@@ -191,6 +193,7 @@
 | [0202-happy-number](https://github.com/dimple-02/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dimple-02/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dimple-02/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dimple-02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -257,6 +260,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dimple-02/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/dimple-02/Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/dimple-02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -309,6 +313,7 @@
 | [0231-power-of-two](https://github.com/dimple-02/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/dimple-02/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dimple-02/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dimple-02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -388,6 +393,7 @@
 | [0141-linked-list-cycle](https://github.com/dimple-02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dimple-02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/dimple-02/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/dimple-02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
