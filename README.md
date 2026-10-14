@@ -307,6 +307,7 @@
 | [0917-reverse-only-letters](https://github.com/dimple-02/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0984-string-without-aaa-or-bbb](https://github.com/dimple-02/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dimple-02/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1405-longest-happy-string](https://github.com/dimple-02/Leetcode/tree/master/1405-longest-happy-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -372,6 +373,7 @@
 | [0984-string-without-aaa-or-bbb](https://github.com/dimple-02/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1024-video-stitching](https://github.com/dimple-02/Leetcode/tree/master/1024-video-stitching) |
 | [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
+| [1405-longest-happy-string](https://github.com/dimple-02/Leetcode/tree/master/1405-longest-happy-string) |
 ## Trie
 |  |
 | ------- |
@@ -719,6 +721,7 @@
 | [1046-last-stone-weight](https://github.com/dimple-02/Leetcode/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/dimple-02/Leetcode/tree/master/1094-car-pooling) |
+| [1405-longest-happy-string](https://github.com/dimple-02/Leetcode/tree/master/1405-longest-happy-string) |
 ## Quickselect
 |  |
 | ------- |
