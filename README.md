@@ -423,6 +423,7 @@
 | [0226-invert-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dimple-02/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dimple-02/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -437,6 +438,7 @@
 | [0386-lexicographical-numbers](https://github.com/dimple-02/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/dimple-02/Leetcode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dimple-02/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,6 +454,7 @@
 | [0226-invert-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dimple-02/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dimple-02/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -558,4 +561,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dimple-02/Leetcode/tree/master/0509-fibonacci-number) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
