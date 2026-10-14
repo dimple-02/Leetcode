@@ -220,6 +220,7 @@
 | [0443-string-compression](https://github.com/dimple-02/Leetcode/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/dimple-02/Leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/dimple-02/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/dimple-02/Leetcode/tree/master/0551-student-attendance-record-i) |
 ## Sliding Window
 |  |
 | ------- |
