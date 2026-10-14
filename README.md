@@ -94,6 +94,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dimple-02/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1024-video-stitching](https://github.com/dimple-02/Leetcode/tree/master/1024-video-stitching) |
 | [1046-last-stone-weight](https://github.com/dimple-02/Leetcode/tree/master/1046-last-stone-weight) |
+| [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0819-most-common-word](https://github.com/dimple-02/Leetcode/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/dimple-02/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dimple-02/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 ## Math
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/dimple-02/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1024-video-stitching](https://github.com/dimple-02/Leetcode/tree/master/1024-video-stitching) |
+| [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 ## Trie
 |  |
 | ------- |
@@ -454,6 +457,7 @@
 | [0905-sort-array-by-parity](https://github.com/dimple-02/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 ## Quicksort
 |  |
 | ------- |
@@ -643,6 +647,7 @@
 | [0621-task-scheduler](https://github.com/dimple-02/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/dimple-02/Leetcode/tree/master/0819-most-common-word) |
+| [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -678,6 +683,7 @@
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/dimple-02/Leetcode/tree/master/1046-last-stone-weight) |
+| [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 ## Quickselect
 |  |
 | ------- |
