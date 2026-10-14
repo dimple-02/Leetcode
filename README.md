@@ -46,6 +46,7 @@
 | [0229-majority-element-ii](https://github.com/dimple-02/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dimple-02/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/dimple-02/Leetcode/tree/master/0260-single-number-iii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -297,6 +298,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/dimple-02/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/dimple-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dimple-02/Leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/dimple-02/Leetcode/tree/master/0260-single-number-iii) |
 ## Tree
 |  |
 | ------- |
