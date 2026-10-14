@@ -131,6 +131,7 @@
 | [2974-minimum-number-game](https://github.com/dimple-02/Leetcode/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/dimple-02/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dimple-02/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/dimple-02/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
 |  |
 | ------- |
