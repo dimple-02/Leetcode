@@ -119,6 +119,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dimple-02/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dimple-02/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/dimple-02/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/dimple-02/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [0867-transpose-matrix](https://github.com/dimple-02/Leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dimple-02/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/dimple-02/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/dimple-02/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
 | ------- |
@@ -549,6 +551,7 @@
 | [0867-transpose-matrix](https://github.com/dimple-02/Leetcode/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/dimple-02/Leetcode/tree/master/1094-car-pooling) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dimple-02/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/dimple-02/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Newton's Method
 |  |
 | ------- |
