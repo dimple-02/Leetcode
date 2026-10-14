@@ -99,6 +99,7 @@
 | [0342-power-of-four](https://github.com/dimple-02/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dimple-02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/dimple-02/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dimple-02/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -183,6 +184,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/dimple-02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dimple-02/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/dimple-02/Leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dimple-02/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -348,6 +350,7 @@
 | [0371-sum-of-two-integers](https://github.com/dimple-02/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/dimple-02/Leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/dimple-02/Leetcode/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dimple-02/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Tree
 |  |
 | ------- |
