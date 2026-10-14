@@ -72,6 +72,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/dimple-02/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dimple-02/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/dimple-02/Leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dimple-02/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dimple-02/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/dimple-02/Leetcode/tree/master/0724-find-pivot-index) |
 ## Pigeonhole Principle
 |  |
 | ------- |
