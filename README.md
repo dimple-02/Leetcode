@@ -95,6 +95,7 @@
 | [1024-video-stitching](https://github.com/dimple-02/Leetcode/tree/master/1024-video-stitching) |
 | [1046-last-stone-weight](https://github.com/dimple-02/Leetcode/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
+| [1094-car-pooling](https://github.com/dimple-02/Leetcode/tree/master/1094-car-pooling) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0724-find-pivot-index](https://github.com/dimple-02/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/dimple-02/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dimple-02/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/dimple-02/Leetcode/tree/master/1094-car-pooling) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -458,6 +460,7 @@
 | [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
+| [1094-car-pooling](https://github.com/dimple-02/Leetcode/tree/master/1094-car-pooling) |
 ## Quicksort
 |  |
 | ------- |
@@ -473,6 +476,7 @@
 | [0735-asteroid-collision](https://github.com/dimple-02/Leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/dimple-02/Leetcode/tree/master/0867-transpose-matrix) |
+| [1094-car-pooling](https://github.com/dimple-02/Leetcode/tree/master/1094-car-pooling) |
 ## Newton's Method
 |  |
 | ------- |
@@ -684,6 +688,7 @@
 | [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/dimple-02/Leetcode/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
+| [1094-car-pooling](https://github.com/dimple-02/Leetcode/tree/master/1094-car-pooling) |
 ## Quickselect
 |  |
 | ------- |
