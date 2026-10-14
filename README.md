@@ -373,6 +373,7 @@
 | [3110-score-of-a-string](https://github.com/dimple-02/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dimple-02/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/dimple-02/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [4006-count-valid-prefixes](https://github.com/dimple-02/Leetcode/tree/master/4006-count-valid-prefixes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -791,6 +792,7 @@
 | [1748-sum-of-unique-elements](https://github.com/dimple-02/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dimple-02/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [4006-count-valid-prefixes](https://github.com/dimple-02/Leetcode/tree/master/4006-count-valid-prefixes) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
