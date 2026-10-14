@@ -80,6 +80,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/dimple-02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dimple-02/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/dimple-02/Leetcode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/dimple-02/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
@@ -192,12 +193,14 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dimple-02/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/dimple-02/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/dimple-02/Leetcode/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/dimple-02/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dimple-02/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/dimple-02/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/dimple-02/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
