@@ -125,6 +125,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/dimple-02/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/dimple-02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [1748-sum-of-unique-elements](https://github.com/dimple-02/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dimple-02/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
@@ -426,6 +428,7 @@
 | [1405-longest-happy-string](https://github.com/dimple-02/Leetcode/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/dimple-02/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Trie
 |  |
 | ------- |
@@ -549,6 +552,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/dimple-02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Quicksort
 |  |
 | ------- |
@@ -569,6 +573,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/dimple-02/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dimple-02/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dimple-02/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Newton's Method
 |  |
 | ------- |
@@ -794,6 +799,7 @@
 | [1405-longest-happy-string](https://github.com/dimple-02/Leetcode/tree/master/1405-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
 |  |
 | ------- |
