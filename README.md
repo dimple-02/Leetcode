@@ -174,6 +174,7 @@
 | [1512-number-of-good-pairs](https://github.com/dimple-02/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/dimple-02/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dimple-02/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -351,6 +352,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/dimple-02/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/dimple-02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dimple-02/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -612,6 +614,7 @@
 | [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/dimple-02/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Tree
 |  |
 | ------- |
@@ -750,6 +753,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/dimple-02/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/dimple-02/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
