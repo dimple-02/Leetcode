@@ -38,6 +38,7 @@
 | [0189-rotate-array](https://github.com/dimple-02/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dimple-02/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -73,6 +74,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dimple-02/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dimple-02/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/dimple-02/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dimple-02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
