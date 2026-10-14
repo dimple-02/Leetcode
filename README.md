@@ -166,6 +166,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/dimple-02/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/dimple-02/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dimple-02/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -335,6 +336,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/dimple-02/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dimple-02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/dimple-02/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dimple-02/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
