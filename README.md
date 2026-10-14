@@ -82,6 +82,7 @@
 | [0202-happy-number](https://github.com/dimple-02/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/dimple-02/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/dimple-02/Leetcode/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/dimple-02/Leetcode/tree/master/0258-add-digits) |
 ## Newton's Method
 |  |
 | ------- |
@@ -396,6 +398,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/dimple-02/Leetcode/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
