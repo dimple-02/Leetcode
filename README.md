@@ -77,6 +77,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dimple-02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/dimple-02/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dimple-02/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0817-linked-list-components](https://github.com/dimple-02/Leetcode/tree/master/0817-linked-list-components) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0645-set-mismatch](https://github.com/dimple-02/Leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dimple-02/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
+| [0817-linked-list-components](https://github.com/dimple-02/Leetcode/tree/master/0817-linked-list-components) |
 ## Math
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0234-palindrome-linked-list](https://github.com/dimple-02/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dimple-02/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dimple-02/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0817-linked-list-components](https://github.com/dimple-02/Leetcode/tree/master/0817-linked-list-components) |
 ## Recursion
 |  |
 | ------- |
