@@ -171,6 +171,7 @@
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/dimple-02/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/dimple-02/Leetcode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/dimple-02/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -628,6 +629,7 @@
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
 | [1024-video-stitching](https://github.com/dimple-02/Leetcode/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/dimple-02/Leetcode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/dimple-02/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -709,6 +711,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dimple-02/Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/dimple-02/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## DP on Trees
 |  |
 | ------- |
