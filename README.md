@@ -130,6 +130,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/dimple-02/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/dimple-02/Leetcode/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/dimple-02/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/dimple-02/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dimple-02/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/dimple-02/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -775,6 +777,7 @@
 | [1512-number-of-good-pairs](https://github.com/dimple-02/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/dimple-02/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/dimple-02/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
