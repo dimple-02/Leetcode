@@ -364,6 +364,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/dimple-02/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dimple-02/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/dimple-02/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3110-score-of-a-string](https://github.com/dimple-02/Leetcode/tree/master/3110-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
