@@ -78,6 +78,7 @@
 | [0189-rotate-array](https://github.com/dimple-02/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dimple-02/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/dimple-02/Leetcode/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -128,6 +129,7 @@
 | [0143-reorder-list](https://github.com/dimple-02/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/dimple-02/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dimple-02/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/dimple-02/Leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [0191-number-of-1-bits](https://github.com/dimple-02/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/dimple-02/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/dimple-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/dimple-02/Leetcode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
