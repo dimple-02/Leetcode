@@ -246,6 +246,7 @@
 | [0709-to-lower-case](https://github.com/dimple-02/Leetcode/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/dimple-02/Leetcode/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/dimple-02/Leetcode/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -336,6 +337,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dimple-02/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/dimple-02/Leetcode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
