@@ -36,6 +36,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dimple-02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dimple-02/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/dimple-02/Leetcode/tree/master/0198-house-robber) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -294,6 +295,7 @@
 | [0118-pascals-triangle](https://github.com/dimple-02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dimple-02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/dimple-02/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/dimple-02/Leetcode/tree/master/0198-house-robber) |
 ## Union-Find
 |  |
 | ------- |
