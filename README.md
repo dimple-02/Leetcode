@@ -96,6 +96,7 @@
 | [0326-power-of-three](https://github.com/dimple-02/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dimple-02/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dimple-02/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/dimple-02/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -335,6 +336,7 @@
 | [0287-find-the-duplicate-number](https://github.com/dimple-02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/dimple-02/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/dimple-02/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/dimple-02/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Tree
 |  |
 | ------- |
