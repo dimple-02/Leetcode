@@ -229,6 +229,7 @@
 | [2396-strictly-palindromic-number](https://github.com/dimple-02/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/dimple-02/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/dimple-02/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/dimple-02/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
 |  |
 | ------- |
