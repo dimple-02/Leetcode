@@ -89,6 +89,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/dimple-02/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/dimple-02/Leetcode/tree/master/0986-interval-list-intersections) |
+| [0989-add-to-array-form-of-integer](https://github.com/dimple-02/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0728-self-dividing-numbers](https://github.com/dimple-02/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/dimple-02/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/dimple-02/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 ## Prefix Sum
 |  |
 | ------- |
