@@ -107,6 +107,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dimple-02/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/dimple-02/Leetcode/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
