@@ -123,6 +123,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/dimple-02/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dimple-02/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dimple-02/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/dimple-02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Hash Table
 |  |
 | ------- |
@@ -542,6 +543,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/dimple-02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dimple-02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/dimple-02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Quicksort
 |  |
 | ------- |
