@@ -78,6 +78,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/dimple-02/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dimple-02/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0817-linked-list-components](https://github.com/dimple-02/Leetcode/tree/master/0817-linked-list-components) |
+| [0819-most-common-word](https://github.com/dimple-02/Leetcode/tree/master/0819-most-common-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dimple-02/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
 | [0817-linked-list-components](https://github.com/dimple-02/Leetcode/tree/master/0817-linked-list-components) |
+| [0819-most-common-word](https://github.com/dimple-02/Leetcode/tree/master/0819-most-common-word) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/dimple-02/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/dimple-02/Leetcode/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/dimple-02/Leetcode/tree/master/0819-most-common-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -582,6 +585,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/dimple-02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/dimple-02/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/dimple-02/Leetcode/tree/master/0819-most-common-word) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
