@@ -219,6 +219,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dimple-02/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/dimple-02/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -362,6 +363,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/dimple-02/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dimple-02/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/dimple-02/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
