@@ -109,6 +109,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/dimple-02/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dimple-02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dimple-02/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
@@ -466,6 +467,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dimple-02/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dimple-02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dimple-02/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dimple-02/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
 | ------- |
