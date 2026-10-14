@@ -73,6 +73,7 @@
 | [0682-baseball-game](https://github.com/dimple-02/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dimple-02/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/dimple-02/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/dimple-02/Leetcode/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -317,6 +318,7 @@
 | [0234-palindrome-linked-list](https://github.com/dimple-02/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dimple-02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/dimple-02/Leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/dimple-02/Leetcode/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 | [0258-add-digits](https://github.com/dimple-02/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/dimple-02/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/dimple-02/Leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/dimple-02/Leetcode/tree/master/0735-asteroid-collision) |
 ## Newton's Method
 |  |
 | ------- |
