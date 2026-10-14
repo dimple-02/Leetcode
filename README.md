@@ -178,6 +178,7 @@
 | [0303-range-sum-query-immutable](https://github.com/dimple-02/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dimple-02/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/dimple-02/Leetcode/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | [0496-next-greater-element-i](https://github.com/dimple-02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/dimple-02/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/dimple-02/Leetcode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/dimple-02/Leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -446,6 +448,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dimple-02/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/dimple-02/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/dimple-02/Leetcode/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -671,6 +674,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dimple-02/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/dimple-02/Leetcode/tree/master/0901-online-stock-span) |
 ## Minimax
 |  |
 | ------- |
