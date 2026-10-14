@@ -115,6 +115,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dimple-02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dimple-02/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/dimple-02/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/dimple-02/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dimple-02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/dimple-02/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/dimple-02/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -711,6 +713,7 @@
 | [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/dimple-02/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/dimple-02/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
