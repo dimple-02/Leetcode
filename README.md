@@ -41,6 +41,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/dimple-02/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/dimple-02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -58,6 +59,7 @@
 | [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dimple-02/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/dimple-02/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/dimple-02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
@@ -228,6 +230,7 @@
 | [0148-sort-list](https://github.com/dimple-02/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dimple-02/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/dimple-02/Leetcode/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
