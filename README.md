@@ -83,6 +83,7 @@
 | [0867-transpose-matrix](https://github.com/dimple-02/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/dimple-02/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/dimple-02/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
 | [0817-linked-list-components](https://github.com/dimple-02/Leetcode/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/dimple-02/Leetcode/tree/master/0819-most-common-word) |
+| [0904-fruit-into-baskets](https://github.com/dimple-02/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dimple-02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/dimple-02/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dimple-02/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/dimple-02/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
