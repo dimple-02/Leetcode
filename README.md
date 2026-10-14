@@ -85,6 +85,7 @@
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/dimple-02/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/dimple-02/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -426,6 +427,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dimple-02/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
 | [0905-sort-array-by-parity](https://github.com/dimple-02/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -561,6 +563,7 @@
 | [0191-number-of-1-bits](https://github.com/dimple-02/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -601,6 +604,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dimple-02/Leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -643,6 +647,7 @@
 | [0621-task-scheduler](https://github.com/dimple-02/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dimple-02/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
+| [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -693,4 +698,16 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dimple-02/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
