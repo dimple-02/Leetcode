@@ -47,6 +47,7 @@
 | [0238-product-of-array-except-self](https://github.com/dimple-02/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/dimple-02/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/dimple-02/Leetcode/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dimple-02/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
@@ -68,6 +69,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dimple-02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/dimple-02/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dimple-02/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dimple-02/Leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
@@ -85,6 +87,7 @@
 | [0231-power-of-two](https://github.com/dimple-02/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dimple-02/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dimple-02/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/dimple-02/Leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -250,6 +253,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/dimple-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/dimple-02/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -262,6 +266,7 @@
 | [0217-contains-duplicate](https://github.com/dimple-02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dimple-02/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dimple-02/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dimple-02/Leetcode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -300,6 +305,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/dimple-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dimple-02/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/dimple-02/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/dimple-02/Leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
