@@ -126,6 +126,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/dimple-02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -242,6 +243,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dimple-02/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/dimple-02/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/dimple-02/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -413,6 +415,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dimple-02/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dimple-02/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/dimple-02/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -431,6 +434,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/dimple-02/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Trie
 |  |
 | ------- |
@@ -555,6 +559,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/dimple-02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
 |  |
 | ------- |
@@ -802,6 +807,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
 |  |
 | ------- |
