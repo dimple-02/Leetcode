@@ -165,6 +165,7 @@
 | [0788-rotated-digits](https://github.com/dimple-02/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/dimple-02/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/dimple-02/Leetcode/tree/master/1025-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -613,6 +614,7 @@
 | [0788-rotated-digits](https://github.com/dimple-02/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
 | [1024-video-stitching](https://github.com/dimple-02/Leetcode/tree/master/1024-video-stitching) |
+| [1025-divisor-game](https://github.com/dimple-02/Leetcode/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -718,6 +720,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/dimple-02/Leetcode/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -738,4 +741,12 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/dimple-02/Leetcode/tree/master/0986-interval-list-intersections) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/dimple-02/Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/dimple-02/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
