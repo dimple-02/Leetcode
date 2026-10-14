@@ -182,6 +182,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/dimple-02/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dimple-02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dimple-02/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/dimple-02/Leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [0344-reverse-string](https://github.com/dimple-02/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dimple-02/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dimple-02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/dimple-02/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -415,6 +417,7 @@
 | [0131-palindrome-partitioning](https://github.com/dimple-02/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/dimple-02/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/dimple-02/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/dimple-02/Leetcode/tree/master/0392-is-subsequence) |
 ## Union-Find
 |  |
 | ------- |
