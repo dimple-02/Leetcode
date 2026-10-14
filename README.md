@@ -124,6 +124,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dimple-02/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dimple-02/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/dimple-02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Hash Table
 |  |
 | ------- |
@@ -422,6 +423,7 @@
 | [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 | [1405-longest-happy-string](https://github.com/dimple-02/Leetcode/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/dimple-02/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Trie
 |  |
 | ------- |
@@ -544,6 +546,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dimple-02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/dimple-02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Quicksort
 |  |
 | ------- |
@@ -786,6 +789,7 @@
 | [1094-car-pooling](https://github.com/dimple-02/Leetcode/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/dimple-02/Leetcode/tree/master/1405-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Quickselect
 |  |
 | ------- |
