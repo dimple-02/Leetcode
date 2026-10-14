@@ -103,6 +103,7 @@
 | [0367-valid-perfect-square](https://github.com/dimple-02/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/dimple-02/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dimple-02/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/dimple-02/Leetcode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/dimple-02/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -190,6 +191,7 @@
 | [0392-is-subsequence](https://github.com/dimple-02/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dimple-02/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/dimple-02/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/dimple-02/Leetcode/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/dimple-02/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/dimple-02/Leetcode/tree/master/0415-add-strings) |
 ## Newton's Method
 |  |
 | ------- |
