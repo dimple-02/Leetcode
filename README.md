@@ -74,6 +74,7 @@
 | [0704-binary-search](https://github.com/dimple-02/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/dimple-02/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/dimple-02/Leetcode/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/dimple-02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -364,6 +365,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dimple-02/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/dimple-02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
