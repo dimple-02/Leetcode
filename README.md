@@ -234,6 +234,7 @@
 | [0131-palindrome-partitioning](https://github.com/dimple-02/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/dimple-02/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/dimple-02/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/dimple-02/Leetcode/tree/master/0401-binary-watch) |
 ## Stack
 |  |
 | ------- |
@@ -346,6 +347,7 @@
 | [0342-power-of-four](https://github.com/dimple-02/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/dimple-02/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/dimple-02/Leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/dimple-02/Leetcode/tree/master/0401-binary-watch) |
 ## Tree
 |  |
 | ------- |
