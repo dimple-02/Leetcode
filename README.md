@@ -70,6 +70,7 @@
 | [0621-task-scheduler](https://github.com/dimple-02/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/dimple-02/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0682-baseball-game](https://github.com/dimple-02/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -309,6 +310,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/dimple-02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dimple-02/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dimple-02/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/dimple-02/Leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -387,6 +389,7 @@
 | [0059-spiral-matrix-ii](https://github.com/dimple-02/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/dimple-02/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/dimple-02/Leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/dimple-02/Leetcode/tree/master/0682-baseball-game) |
 ## Newton's Method
 |  |
 | ------- |
