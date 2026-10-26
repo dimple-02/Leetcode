@@ -128,6 +128,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/dimple-02/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2761-prime-pairs-with-target-sum](https://github.com/dimple-02/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2974-minimum-number-game](https://github.com/dimple-02/Leetcode/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/dimple-02/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dimple-02/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -231,6 +232,7 @@
 | [2396-strictly-palindromic-number](https://github.com/dimple-02/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/dimple-02/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/dimple-02/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2761-prime-pairs-with-target-sum](https://github.com/dimple-02/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/dimple-02/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dimple-02/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
@@ -803,6 +805,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/dimple-02/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/dimple-02/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Number Theory
 |  |
@@ -810,6 +813,7 @@
 | [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/dimple-02/Leetcode/tree/master/0258-add-digits) |
 | [2523-closest-prime-numbers-in-range](https://github.com/dimple-02/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2761-prime-pairs-with-target-sum](https://github.com/dimple-02/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Primality Test
 |  |
 | ------- |
