@@ -232,6 +232,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/dimple-02/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dimple-02/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/dimple-02/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2427-number-of-common-factors](https://github.com/dimple-02/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/dimple-02/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/dimple-02/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/dimple-02/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
@@ -807,6 +808,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/dimple-02/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/dimple-02/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/dimple-02/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Number Theory
@@ -815,6 +817,7 @@
 | [0204-count-primes](https://github.com/dimple-02/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/dimple-02/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dimple-02/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/dimple-02/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/dimple-02/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/dimple-02/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 ## Primality Test
@@ -941,8 +944,10 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dimple-02/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/dimple-02/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dimple-02/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/dimple-02/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
