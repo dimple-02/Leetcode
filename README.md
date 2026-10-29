@@ -121,6 +121,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dimple-02/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dimple-02/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dimple-02/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/dimple-02/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/dimple-02/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/dimple-02/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dimple-02/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -471,6 +472,7 @@
 | [1024-video-stitching](https://github.com/dimple-02/Leetcode/tree/master/1024-video-stitching) |
 | [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
 | [1405-longest-happy-string](https://github.com/dimple-02/Leetcode/tree/master/1405-longest-happy-string) |
+| [1710-maximum-units-on-a-truck](https://github.com/dimple-02/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/dimple-02/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -599,6 +601,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/dimple-02/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dimple-02/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/dimple-02/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/dimple-02/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
