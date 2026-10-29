@@ -83,6 +83,7 @@
 | [0817-linked-list-components](https://github.com/dimple-02/Leetcode/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/dimple-02/Leetcode/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/dimple-02/Leetcode/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/dimple-02/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/dimple-02/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/dimple-02/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/dimple-02/Leetcode/tree/master/0877-stone-game) |
@@ -459,6 +460,7 @@
 | [0621-task-scheduler](https://github.com/dimple-02/Leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dimple-02/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/dimple-02/Leetcode/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/dimple-02/Leetcode/tree/master/0860-lemonade-change) |
 | [0984-string-without-aaa-or-bbb](https://github.com/dimple-02/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1024-video-stitching](https://github.com/dimple-02/Leetcode/tree/master/1024-video-stitching) |
 | [1054-distant-barcodes](https://github.com/dimple-02/Leetcode/tree/master/1054-distant-barcodes) |
