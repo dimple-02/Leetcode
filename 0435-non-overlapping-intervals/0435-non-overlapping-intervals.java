@@ -5,11 +5,13 @@ class Solution {
             pq.add(intervals[i]);
         }
         int ans=0;
-        int last =Integer.MIN_VALUE;
+        int lastEnd=Integer.MIN_VALUE;
         while(!pq.isEmpty()){
             int[] curr=pq.poll();
-            if(curr[0]<last) ans++;
-            else last = curr[1];
+            if(curr[0]<lastEnd){
+                ans++;
+            }
+            else lastEnd=curr[1];
         }
         return ans;
     }
