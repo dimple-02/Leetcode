@@ -131,6 +131,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/dimple-02/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/dimple-02/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2761-prime-pairs-with-target-sum](https://github.com/dimple-02/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2974-minimum-number-game](https://github.com/dimple-02/Leetcode/tree/master/2974-minimum-number-game) |
@@ -445,6 +446,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/dimple-02/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/dimple-02/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/dimple-02/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
@@ -465,6 +467,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/dimple-02/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
 | ------- |
@@ -592,6 +595,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/dimple-02/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/dimple-02/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/dimple-02/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2974-minimum-number-game](https://github.com/dimple-02/Leetcode/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/dimple-02/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Quicksort
