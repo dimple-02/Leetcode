@@ -1,23 +1,22 @@
 class Solution {
+    List<List<Integer>> ans = new ArrayList<>();
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        HashSet<List<Integer>> ans = new HashSet<>();
-        List<Integer> curr=new ArrayList<>();
-        backtrack(0,nums,curr,ans);
-        List<List<Integer>> result= new ArrayList<>();
-        for(List<Integer> x : ans){
-            result.add(x);
+        HashSet<List<Integer>> set = new HashSet<>();
+        backtrack(nums,0,set,new ArrayList<>());
+        for(List<Integer> list : set){
+            ans.add(list);
         }
-        return result;
+        return ans;
     }
-    void backtrack(int index,int[] nums,List<Integer> curr,HashSet<List<Integer>> ans){
-        if(index==nums.length){
-            ans.add(new ArrayList<>(curr));
+    private void backtrack(int[] nums, int i, HashSet<List<Integer>> set, List<Integer> curr){
+        if(i==nums.length){
+            set.add(new ArrayList<>(curr));
             return;
         }
-        curr.add(nums[index]);
-        backtrack(index+1,nums,curr,ans);
+        curr.add(nums[i]);
+        backtrack(nums,i+1,set,curr);
         curr.remove(curr.size()-1);
-        backtrack(index+1,nums,curr,ans);
+        backtrack(nums,i+1,set,curr);
     }
 }
