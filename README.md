@@ -24,6 +24,7 @@
 | [0066-plus-one](https://github.com/dimple-02/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dimple-02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dimple-02/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/dimple-02/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dimple-02/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dimple-02/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/dimple-02/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -487,6 +488,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dimple-02/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/dimple-02/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dimple-02/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/dimple-02/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/dimple-02/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -657,6 +659,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dimple-02/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dimple-02/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/dimple-02/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dimple-02/Leetcode/tree/master/0137-single-number-ii) |
