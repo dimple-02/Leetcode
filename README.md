@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/dimple-02/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/dimple-02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dimple-02/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/dimple-02/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dimple-02/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dimple-02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dimple-02/Leetcode/tree/master/0055-jump-game) |
@@ -491,6 +492,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dimple-02/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/dimple-02/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/dimple-02/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dimple-02/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/dimple-02/Leetcode/tree/master/0131-palindrome-partitioning) |
