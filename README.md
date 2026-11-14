@@ -144,6 +144,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/dimple-02/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dimple-02/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/dimple-02/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dimple-02/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dimple-02/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/dimple-02/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Hash Table
@@ -273,6 +274,7 @@
 | [1732-find-the-highest-altitude](https://github.com/dimple-02/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/dimple-02/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dimple-02/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -403,6 +405,7 @@
 | [0904-fruit-into-baskets](https://github.com/dimple-02/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/dimple-02/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dimple-02/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dimple-02/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
