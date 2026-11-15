@@ -248,6 +248,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dimple-02/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/dimple-02/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/dimple-02/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2485-find-the-pivot-integer](https://github.com/dimple-02/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/dimple-02/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/dimple-02/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/dimple-02/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
@@ -277,6 +278,7 @@
 | [1732-find-the-highest-altitude](https://github.com/dimple-02/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/dimple-02/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dimple-02/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2485-find-the-pivot-integer](https://github.com/dimple-02/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dimple-02/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Pigeonhole Principle
 |  |
