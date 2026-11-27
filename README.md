@@ -743,6 +743,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/dimple-02/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dimple-02/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dimple-02/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -776,6 +777,7 @@
 | [0226-invert-binary-tree](https://github.com/dimple-02/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/dimple-02/Leetcode/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dimple-02/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dimple-02/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -825,6 +827,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dimple-02/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dimple-02/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -1008,4 +1011,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/dimple-02/Leetcode/tree/master/0051-n-queens) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/dimple-02/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
